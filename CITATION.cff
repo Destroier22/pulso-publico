@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Pulso Público — Atlas do Dinheiro Municipal"
+message: "Se este projeto apoiar seu trabalho, cite o repositório e a fonte Siconfi/STN."
+type: software
+authors:
+  - family-names: "Carlos"
+    given-names: "Lucas Camillo"
+year: 2026
+license: MIT
+repository-code: "https://github.com/Destroier22/pulso-publico"
